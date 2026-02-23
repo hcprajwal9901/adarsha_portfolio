@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+app/node_modules/
+
+# Build output
+dist/
+app/dist/
+
+# Vite cache
+.vite/
+app/.vite/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# TypeScript build info
+*.tsbuildinfo
+app/*.tsbuildinfo
