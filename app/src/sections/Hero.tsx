@@ -137,7 +137,7 @@ export default function Hero() {
         >
           <div className="absolute -inset-[2px] rounded-2xl bg-gradient-to-br from-mint/50 via-sky/30 to-mint/50 animate-glow-pulse" />
           <div className="relative w-full h-full rounded-2xl overflow-hidden">
-            <img src="./profile.jpg" alt="Adarsha H V" className="w-full h-full object-cover object-top grayscale-[30%] contrast-110" />
+            <img src={`${import.meta.env.BASE_URL}profile.jpg`} alt="Adarsha H V" className="w-full h-full object-cover object-top grayscale-[30%] contrast-110" />
             <div className="absolute inset-0 bg-gradient-to-t from-navy/60 via-transparent to-transparent" />
           </div>
           <div className="absolute bottom-3 left-4 glass px-3 py-1 rounded-full">
