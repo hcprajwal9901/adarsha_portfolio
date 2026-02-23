@@ -24,7 +24,7 @@ export default function Footer() {
           {/* Links */}
           <div className="mt-6 flex items-center gap-6">
             <a
-              href="/adarsha_resume.pdf"
+              href="./adarsha_resume.pdf"
               download
               className="text-sm text-slate-muted hover:text-mint transition-colors duration-300"
             >

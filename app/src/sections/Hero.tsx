@@ -186,7 +186,7 @@ export default function Hero() {
             Contact
           </button>
           <a
-            href="/adarsha_resume.pdf"
+            href="./adarsha_resume.pdf"
             download
             className="flex items-center gap-2 px-5 py-2.5 border border-mint/30 text-mint rounded-full hover:bg-mint/10 transition-all duration-150"
           >
@@ -255,7 +255,7 @@ export default function Hero() {
               Contact Me
             </button>
             <a
-              href="/adarsha_resume.pdf"
+              href="./adarsha_resume.pdf"
               download
               className="flex items-center gap-2 px-6 py-3 border border-mint/30 text-mint rounded-full hover:bg-mint/10 transition-all duration-150"
             >

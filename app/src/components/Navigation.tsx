@@ -90,7 +90,7 @@ export default function Navigation() {
               ))}
 
               <a
-                href="/adarsha_resume.pdf"
+                href="./adarsha_resume.pdf"
                 download
                 className="flex items-center gap-2 px-4 py-2 border border-mint/40 text-mint text-sm rounded-full hover:bg-mint/10 transition-all duration-150"
               >
